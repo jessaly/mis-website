@@ -186,7 +186,7 @@ const Home = () => {
               </h2>
 
               <p className="text-gray-700 mb-6">
-                At Kiddos Learning School, we create an engaging educational
+                At MAMS International School, we create an engaging educational
                 environment where children thrive academically, socially, and
                 emotionally. Our innovative teaching methods combine structured
                 learning with creative exploration, helping students develop
